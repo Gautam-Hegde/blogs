@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A quick rundown on Blockchain Technology'
+title: 'A Quick rundown on Blockchain Technology'
 date: 2022-7-31
 categories: ["Blockchain", "web3", "Distributed Ledger"]
 ---
