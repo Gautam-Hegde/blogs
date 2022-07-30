@@ -16,7 +16,7 @@ In short: Git is a version control programme that enables you to keep track of t
 
 ## Installing Git ##
 On the official website, you can download the most recent version to accomplish this. From the available options, you can download for your operating system.
-https://git-scm.com/downloads
+<https://git-scm.com/downloads>
 To verify, you can run this command on the command line: `$ git --version`. This shows you the current version installed on you PC.
 
 ## Set your identity ##
